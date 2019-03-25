@@ -2,8 +2,9 @@ package com.idea.spring.test.springtest.common;
 
 import java.util.List;
 
+
 public class PageInfoTest {
-	
+
 	private List<?> list;
 	
 	private Integer pageCount;

@@ -4,6 +4,5 @@ public class Main {
         System.out.println("Hello World!");
         System.out.println("abcd");
         System.out.println(123);
-        System.err.println("gitgit");
     }
 }
